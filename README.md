@@ -1,1 +1,2 @@
-# credit_cards_clustering-
+
+In this project, I applied the KMeans and Agglomerative Clustering models to segment (cluster) customers' credit cards. I performed several data preprocessing measurements on the dataset before feeding it to the models. Feature selection, dimensionality reduction, standardization, and normalization techniques are implemented to find the best set of features for building a model with high performance. After building the models, I evaluated models' performance with different K values (number of clusters) in terms of inertia, Silhouette score, Calinski Harabasz score, and Davies Bouldin Score.
